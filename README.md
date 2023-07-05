@@ -1,4 +1,5 @@
-Readme.dm # alx-pre_course
+# Readme.dm # alx-pre_course
+Join us now
 I'm now a ALX Student, this is my first repository as a full-stack engineer
 root@896cf839cf9a:/alx-pre_course# git add .
 root@896cf839cf9a:/alx-pre_course# git commit -m 'My first commit'
